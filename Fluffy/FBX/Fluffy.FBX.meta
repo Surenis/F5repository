@@ -1,0 +1,1804 @@
+fileFormatVersion: 2
+guid: 4ff866c99904b0642bb3ece7937b9bd0
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Center
+    100010: //RootNode
+    100012: Monster_Fluffy
+    100014: Monster_Fluffy_Bone01
+    100016: Monster_Fluffy_Bone02
+    100018: Monster_Fluffy_Bone03
+    100020: Monster_Fluffy_Bone04
+    100022: Monster_Fluffy_Bone06
+    100024: Monster_Fluffy_Bone07
+    100026: Monster_Fluffy_Bone08
+    100028: Monster_Fluffy_Bone09
+    100030: Monster_Fluffy_Bone10
+    100032: Monster_Fluffy_Bone11
+    100034: Monster_Fluffy_Bone12
+    100036: Monster_Fluffy_Bone13
+    100038: Monster_Fluffy_Bone14
+    100040: Monster_Fluffy_Bone15
+    100042: Monster_Fluffy_Bone16
+    100044: Monster_Fluffy_Bone17
+    100046: Monster_Fluffy_Bone18
+    100048: Monster_Fluffy_Bone19
+    100050: Monster_Fluffy_Bone20
+    100052: Monster_Fluffy_Bone21
+    100054: Monster_Fluffy_Bone22
+    100056: Monster_Fluffy_Bone23
+    100058: Monster_Fluffy_Bone25
+    100060: Monster_Fluffy_connectBone01
+    100062: Monster_Fluffy_connectBone02
+    100064: Monster_Fluffy_connectBone03
+    100066: Monster_Fluffy_connectBone04
+    100068: Monster_Fluffy_connectBone05
+    100070: Monster_Fluffy_connectBone06
+    100072: Monster_Fluffy_connectBone07
+    100074: Point001
+    100076: Point002
+    100078: Root
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Center
+    400010: //RootNode
+    400012: Monster_Fluffy
+    400014: Monster_Fluffy_Bone01
+    400016: Monster_Fluffy_Bone02
+    400018: Monster_Fluffy_Bone03
+    400020: Monster_Fluffy_Bone04
+    400022: Monster_Fluffy_Bone06
+    400024: Monster_Fluffy_Bone07
+    400026: Monster_Fluffy_Bone08
+    400028: Monster_Fluffy_Bone09
+    400030: Monster_Fluffy_Bone10
+    400032: Monster_Fluffy_Bone11
+    400034: Monster_Fluffy_Bone12
+    400036: Monster_Fluffy_Bone13
+    400038: Monster_Fluffy_Bone14
+    400040: Monster_Fluffy_Bone15
+    400042: Monster_Fluffy_Bone16
+    400044: Monster_Fluffy_Bone17
+    400046: Monster_Fluffy_Bone18
+    400048: Monster_Fluffy_Bone19
+    400050: Monster_Fluffy_Bone20
+    400052: Monster_Fluffy_Bone21
+    400054: Monster_Fluffy_Bone22
+    400056: Monster_Fluffy_Bone23
+    400058: Monster_Fluffy_Bone25
+    400060: Monster_Fluffy_connectBone01
+    400062: Monster_Fluffy_connectBone02
+    400064: Monster_Fluffy_connectBone03
+    400066: Monster_Fluffy_connectBone04
+    400068: Monster_Fluffy_connectBone05
+    400070: Monster_Fluffy_connectBone06
+    400072: Monster_Fluffy_connectBone07
+    400074: Point001
+    400076: Point002
+    400078: Root
+    4300000: Monster_Fluffy
+    7400000: Fluffy@Idle
+    7400002: Fluffy@Emotion
+    7400004: Fluffy@Rest1
+    7400006: Fluffy@Rest2
+    7400008: Fluffy@Move
+    7400010: Fluffy@MoveStand
+    7400012: Fluffy@Attack1
+    7400014: Fluffy@Attack2
+    7400016: Fluffy@Attack3
+    7400018: Fluffy@HurtBack
+    7400020: Fluffy@HurtFront
+    7400022: Fluffy@StrikeDamage1
+    7400024: Fluffy@StrikeDamage2
+    7400026: Fluffy@StandUp
+    7400028: Fluffy@Die
+    9500000: //RootNode
+    13700000: Monster_Fluffy
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fluffy@Idle
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@Emotion
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@Rest1
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@Rest2
+      takeName: Take 001
+      firstFrame: 210
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@Move
+      takeName: Take 001
+      firstFrame: 310
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@MoveStand
+      takeName: Take 001
+      firstFrame: 310
+      lastFrame: 355
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@Attack1
+      takeName: Take 001
+      firstFrame: 470
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@Attack2
+      takeName: Take 001
+      firstFrame: 530
+      lastFrame: 585
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@Attack3
+      takeName: Take 001
+      firstFrame: 610
+      lastFrame: 670
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@HurtBack
+      takeName: Take 001
+      firstFrame: 691
+      lastFrame: 720
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@HurtFront
+      takeName: Take 001
+      firstFrame: 741
+      lastFrame: 770
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@StrikeDamage1
+      takeName: Take 001
+      firstFrame: 791
+      lastFrame: 830
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@StrikeDamage2
+      takeName: Take 001
+      firstFrame: 851
+      lastFrame: 890
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@StandUp
+      takeName: Take 001
+      firstFrame: 910
+      lastFrame: 950
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fluffy@Die
+      takeName: Take 001
+      firstFrame: 970
+      lastFrame: 1035
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Center
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_Bone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone01/Monster_Fluffy_Bone22/Monster_Fluffy_Bone23
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone02/Monster_Fluffy_Bone04/Monster_Fluffy_Bone25
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Monster_Fluffy_connectBone07/Monster_Fluffy_Bone06/Monster_Fluffy_Bone07
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_Bone02/Point002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Bone001/Bone002
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone03/Monster_Fluffy_Bone08/Monster_Fluffy_Bone09/Monster_Fluffy_Bone10/Monster_Fluffy_Bone11
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Bone003/Bone004
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone04/Monster_Fluffy_Bone12/Monster_Fluffy_Bone13/Monster_Fluffy_Bone14/Monster_Fluffy_Bone15
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone05/Monster_Fluffy_Bone16/Monster_Fluffy_Bone17/Monster_Fluffy_Bone18
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20
+        weight: 1
+      - path: Center/Monster_Fluffy_Bone01/Monster_Fluffy_connectBone06/Monster_Fluffy_Bone19/Monster_Fluffy_Bone20/Monster_Fluffy_Bone21
+        weight: 1
+      - path: Monster_Fluffy
+        weight: 1
+      - path: Root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

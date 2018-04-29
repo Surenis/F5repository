@@ -1,0 +1,2491 @@
+fileFormatVersion: 2
+guid: 2a99621b6a4df78498f53e16482edc67
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bag
+    100004: Bip01
+    100006: Bip01 Head
+    100008: Bip01 HeadNub
+    100010: Bip01 L Calf
+    100012: Bip01 L Clavicle
+    100014: Bip01 L Foot
+    100016: Bip01 L Forearm
+    100018: Bip01 L Hand
+    100020: Bip01 L Thigh
+    100022: Bip01 L Toe0
+    100024: Bip01 L Toe0Nub
+    100026: Bip01 L UpperArm
+    100028: Bip01 Neck
+    100030: Bip01 Pelvis
+    100032: Bip01 R Calf
+    100034: Bip01 R Clavicle
+    100036: Bip01 R Foot
+    100038: Bip01 R Forearm
+    100040: Bip01 R Hand
+    100042: Bip01 R Thigh
+    100044: Bip01 R Toe0
+    100046: Bip01 R Toe0Nub
+    100048: Bip01 R UpperArm
+    100050: Bip01 Spine
+    100052: Bip01 Spine1
+    100054: Monster_Bag_Bone01
+    100056: Monster_Bag_Bone02
+    100058: Monster_Bag_Bone03
+    100060: Monster_Bag_Bone04
+    100062: Monster_Bag_Bone05
+    100064: Monster_Bag_Bone10
+    100066: Monster_Bag_Bone12
+    100068: Monster_Bag_Bone14
+    100070: Monster_Bag_Bone15
+    100072: Monster_Bag_Bone18
+    100074: Monster_Bag_Bone20
+    100076: Monster_Bag_Bone21
+    100078: Monster_Bag_Bone22
+    100080: World_Center_Mon_Bag
+    100082: Bip01 Footsteps
+    400000: //RootNode
+    400002: Bag
+    400004: Bip01
+    400006: Bip01 Head
+    400008: Bip01 HeadNub
+    400010: Bip01 L Calf
+    400012: Bip01 L Clavicle
+    400014: Bip01 L Foot
+    400016: Bip01 L Forearm
+    400018: Bip01 L Hand
+    400020: Bip01 L Thigh
+    400022: Bip01 L Toe0
+    400024: Bip01 L Toe0Nub
+    400026: Bip01 L UpperArm
+    400028: Bip01 Neck
+    400030: Bip01 Pelvis
+    400032: Bip01 R Calf
+    400034: Bip01 R Clavicle
+    400036: Bip01 R Foot
+    400038: Bip01 R Forearm
+    400040: Bip01 R Hand
+    400042: Bip01 R Thigh
+    400044: Bip01 R Toe0
+    400046: Bip01 R Toe0Nub
+    400048: Bip01 R UpperArm
+    400050: Bip01 Spine
+    400052: Bip01 Spine1
+    400054: Monster_Bag_Bone01
+    400056: Monster_Bag_Bone02
+    400058: Monster_Bag_Bone03
+    400060: Monster_Bag_Bone04
+    400062: Monster_Bag_Bone05
+    400064: Monster_Bag_Bone10
+    400066: Monster_Bag_Bone12
+    400068: Monster_Bag_Bone14
+    400070: Monster_Bag_Bone15
+    400072: Monster_Bag_Bone18
+    400074: Monster_Bag_Bone20
+    400076: Monster_Bag_Bone21
+    400078: Monster_Bag_Bone22
+    400080: World_Center_Mon_Bag
+    400082: Bip01 Footsteps
+    4300000: Bag
+    7400000: Bag@Idle
+    7400002: Bag@Emotion
+    7400004: Bag@Move
+    7400006: Bag@Rest1
+    7400008: Bag@Rest2
+    7400010: Bag@HurtFront
+    7400012: Bag@HurtBack
+    7400014: Bag@Attack1
+    7400016: Bag@Attack2
+    7400018: Bag@Attack3
+    7400020: Bag@StrikeDamage1
+    7400022: Bag@StrikeDamage2
+    7400024: Bag@Standup
+    7400026: Bag@Die
+    7400028: Bag@JumpUp
+    7400030: Bag@Jumping
+    7400032: Bag@Landing
+    9500000: //RootNode
+    13700000: Bag
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bag@Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@Emotion
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@Move
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 126
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@Rest1
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@Rest2
+      takeName: Take 001
+      firstFrame: 220
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@HurtFront
+      takeName: Take 001
+      firstFrame: 312
+      lastFrame: 330
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@HurtBack
+      takeName: Take 001
+      firstFrame: 342
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@Attack1
+      takeName: Take 001
+      firstFrame: 370
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@Attack2
+      takeName: Take 001
+      firstFrame: 410
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@Attack3
+      takeName: Take 001
+      firstFrame: 460
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@StrikeDamage1
+      takeName: Take 001
+      firstFrame: 522
+      lastFrame: 560
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@StrikeDamage2
+      takeName: Take 001
+      firstFrame: 572
+      lastFrame: 610
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@Standup
+      takeName: Take 001
+      firstFrame: 620
+      lastFrame: 640
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@Die
+      takeName: Take 001
+      firstFrame: 650
+      lastFrame: 690
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@JumpUp
+      takeName: Take 001
+      firstFrame: 720
+      lastFrame: 730
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Footsteps
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@Jumping
+      takeName: Take 001
+      firstFrame: 730
+      lastFrame: 750
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Footsteps
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bag@Landing
+      takeName: Take 001
+      firstFrame: 750
+      lastFrame: 760
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bag
+        weight: 1
+      - path: World_Center_Mon_Bag
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Footsteps
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01
+          L Calf/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01
+          R Calf/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Bip01 HeadNub
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone10
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone12
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone14
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone15
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone18
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 Head/Monster_Bag_Bone20
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01
+          Neck/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone01/Monster_Bag_Bone02/Monster_Bag_Bone03/Monster_Bag_Bone04/Monster_Bag_Bone05
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21
+        weight: 1
+      - path: World_Center_Mon_Bag/Bip01/Bip01 Pelvis/Bip01 Spine/Monster_Bag_Bone21/Monster_Bag_Bone22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
